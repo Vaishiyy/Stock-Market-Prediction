@@ -67,7 +67,5 @@ Stock-Market-Prediction/
 3. Or double-click `run_app.bat` on Windows.
 4. Open your browser to `http://localhost:8501`.
 
-### 2. Streamlit Cloud Deployment
-1. Connect this repository on [share.streamlit.io](https://share.streamlit.io).
-2. Set **Main file path** to `app/app.py`.
-3. Click **Deploy!**
+### 2. Website Link:
+https://stock-market-prediction-xh9zzt82ysrvn8xmp2d2vw.streamlit.app/
